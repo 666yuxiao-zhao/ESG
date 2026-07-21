@@ -1,0 +1,13 @@
+factor_id,category,scope,input_unit,factor_value,factor_unit,region,factor_year,factor_source,factor_version,calculation_method
+CN-ELEC-2022,外购电力,Scope 2,kWh,0.5366,kgCO2e/kWh,全国,2022,生态环境部与国家统计局公开因子（演示引用）,demo-2026.1,activity
+CN-HEAT-DEMO,外购热力,Scope 2,GJ,110.0000,kgCO2e/GJ,全国,2022,中国企业温室气体核算指南参考值（演示）,demo-2026.1,activity
+CN-NG-DEMO,天然气,Scope 1,m3,2.1622,kgCO2e/m3,全国,2022,中国企业温室气体核算指南参考值（演示）,demo-2026.1,activity
+CN-DIESEL-DEMO,柴油,Scope 1,kg,3.0959,kgCO2e/kg,全国,2022,IPCC与国内指南参数组合（演示）,demo-2026.1,activity
+CN-GASOLINE-DEMO,汽油,Scope 1,kg,2.9251,kgCO2e/kg,全国,2022,IPCC与国内指南参数组合（演示）,demo-2026.1,activity
+CN-COAL-DEMO,原煤,Scope 1,kg,1.9003,kgCO2e/kg,全国,2022,中国企业温室气体核算指南参考值（演示）,demo-2026.1,activity
+CN-LPG-DEMO,液化石油气,Scope 1,kg,3.1013,kgCO2e/kg,全国,2022,IPCC与国内指南参数组合（演示）,demo-2026.1,activity
+IPCC-R410A-AR4,制冷剂R410A,Scope 1,kg,2088.0000,kgCO2e/kg,全球,2007,IPCC AR4 组合制冷剂 GWP 参考值（演示）,demo-2026.1,activity
+CN-ROAD-DEMO,公路运输,Scope 3,t.km,0.0960,kgCO2e/t.km,全国,2022,通用货运排放因子参考值（演示）,demo-2026.1,ton_km
+CN-RAIL-DEMO,铁路运输,Scope 3,t.km,0.0240,kgCO2e/t.km,全国,2022,通用货运排放因子参考值（演示）,demo-2026.1,ton_km
+CN-SEA-DEMO,海运,Scope 3,t.km,0.0110,kgCO2e/t.km,全国,2022,通用货运排放因子参考值（演示）,demo-2026.1,ton_km
+CN-AIR-DEMO,航空运输,Scope 3,t.km,0.6020,kgCO2e/t.km,全国,2022,通用货运排放因子参考值（演示）,demo-2026.1,ton_km
