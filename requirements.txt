@@ -1,0 +1,8 @@
+streamlit>=1.42,<2
+pandas>=2.2,<3
+openpyxl>=3.1,<4
+# 0.7 switched to Streamlit Components v2 and currently has host-discovery
+# issues outside package development projects. 0.4 provides the stable API used here.
+streamlit-echarts==0.4.0
+pytest>=8.3,<9
+reportlab>=4.2,<5
